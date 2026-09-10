@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Drew (@drewai788) 👋
 
-<!--
-**drewai788/drewai788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build mobile apps at App Studio in SF. Most of my time goes into Flutter and React Native cross-platform workflows, offline-first sync, and Firebase backends.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 📱 Building production mobile clients at App Studio
+- 🧪 Messing around with Kotlin Multiplatform and local-first DBs
+- 🛠️ Keeping my personal Flutter starter templates up to date
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech Stack
+- **Languages:** Dart, TypeScript, JavaScript, Swift, Kotlin
+- **Frameworks:** Flutter, React Native, Expo
+- **Backend & State:** Firebase (Firestore, Cloud Functions), Supabase, Riverpod, Redux Toolkit
+- **Tooling:** Fastlane, GitHub Actions, Xcode, Android Studio
+
+#### Reach out
+- 💼 [LinkedIn](https://linkedin.com/in/drewai788)
+- 🐦 [X / Twitter](https://x.com/drewai788)
+- ✉️ drew@appstudio.dev
